@@ -1,0 +1,6 @@
+C:\ComIT\CursoAMBA\ProyectoConsola\obj\Debug\net5.0\ProyectoConsola.GlobalUsings.g.cs
+C:\ComIT\CursoAMBA\ProyectoConsola\obj\Debug\net5.0\ProyectoConsola.csproj.AssemblyReference.cache
+C:\ComIT\CursoAMBA\ProyectoConsola\obj\Debug\net5.0\ProyectoConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\ComIT\CursoAMBA\ProyectoConsola\obj\Debug\net5.0\ProyectoConsola.AssemblyInfoInputs.cache
+C:\ComIT\CursoAMBA\ProyectoConsola\obj\Debug\net5.0\ProyectoConsola.AssemblyInfo.cs
+C:\ComIT\CursoAMBA\ProyectoConsola\obj\Debug\net5.0\ProyectoConsola.csproj.CoreCompileInputs.cache
