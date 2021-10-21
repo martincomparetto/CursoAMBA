@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ComIT\\CursoAMBA\\ProyectoConsola\\ProyectoConsola.csproj": {}
+    "C:\\ComIT\\CursoAMBA\\proyectoConsola\\ProyectoConsola.csproj": {}
   },
   "projects": {
-    "C:\\ComIT\\CursoAMBA\\ProyectoConsola\\ProyectoConsola.csproj": {
+    "C:\\ComIT\\CursoAMBA\\proyectoConsola\\ProyectoConsola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ComIT\\CursoAMBA\\ProyectoConsola\\ProyectoConsola.csproj",
+        "projectUniqueName": "C:\\ComIT\\CursoAMBA\\proyectoConsola\\ProyectoConsola.csproj",
         "projectName": "ProyectoConsola",
-        "projectPath": "C:\\ComIT\\CursoAMBA\\ProyectoConsola\\ProyectoConsola.csproj",
+        "projectPath": "C:\\ComIT\\CursoAMBA\\proyectoConsola\\ProyectoConsola.csproj",
         "packagesPath": "C:\\Users\\MartinComparetto\\.nuget\\packages\\",
-        "outputPath": "C:\\ComIT\\CursoAMBA\\ProyectoConsola\\obj\\",
+        "outputPath": "C:\\ComIT\\CursoAMBA\\proyectoConsola\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

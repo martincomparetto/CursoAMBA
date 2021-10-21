@@ -166,19 +166,42 @@
 // }
 
 
-string Saludar(string nombre, string apellido)
-{
-    string respuestaSaludo = $"Hola {nombre} {apellido}";
-    return respuestaSaludo;
-}
+// string Saludar(string nombre, string apellido)
+// {
+//     string respuestaSaludo = $"Hola {nombre} {apellido}";
+//     return respuestaSaludo;
+// }
 
-string respuesta = Saludar("Juana", "DeArco");
-MostrarMensaje(respuesta);
+// string respuesta = Saludar("Juana", "DeArco");
+// MostrarMensaje(respuesta);
 
 
-void MostrarMensaje(string mensaje)
-{
-    Console.WriteLine(mensaje);
-}
+// void MostrarMensaje(string mensaje)
+// {
+//     Console.WriteLine(mensaje);
+// }
+
+
+// Objetos (POO)
+Vehiculo vehiculoUno = new Vehiculo() { Color = "Rojo", Año = 2005, CantidadRuedas = 2 };
+// vehiculoUno.Color = "Rojo";
+// vehiculoUno.Año = 2005;
+// vehiculoUno.CantidadRuedas = 2;
+vehiculoUno.Arrancar();
+Console.WriteLine(vehiculoUno.ObtenerEstado());
+// vehiculoUno.Apagar();
+// Console.WriteLine(vehiculoUno.ObtenerEstado());
+
+Vehiculo vehiculoDos = new Vehiculo("Rojo", "Suzuki", 2015, 4);
+Console.WriteLine(vehiculoDos.ObtenerEstado());
+Console.WriteLine(vehiculoDos.Marca);
+
+Automoviles miAutoUno = new Automoviles();
+miAutoUno.Arrancar();
+miAutoUno.CantidadPuertas = 4;
+
+Semi miSemi = new Semi();
+miSemi.Arrancar();
+miSemi.Largo = 10;
 
 
